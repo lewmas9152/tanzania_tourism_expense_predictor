@@ -116,7 +116,6 @@ const REGION_MULTIPLIER: Record<string, number> = {
   'Northern Africa': 1.1,
   'South America': 1.5,
   'Central America': 1.3,
-  'Northern America': 2.6,
   Other: 1.2,
 };
 
